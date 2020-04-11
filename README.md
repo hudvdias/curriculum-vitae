@@ -1,8 +1,6 @@
 # Hudson Oliveira Dias
 > Programador Javascript
 
-<br>
-
 ## :raising_hand_man: Sobre Mim
 
 Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Rio de Janeiro.
@@ -15,8 +13,6 @@ Caso queiram entrar em contato, ou saber mais sobre mim, seguem alguns links:
 **LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/ <br>
 **Github:** https://github.com/hudvdias <br>
 
-<br>
-
 ## :desktop_computer: Conhecimentos
 
 - HTML
@@ -28,20 +24,17 @@ Caso queiram entrar em contato, ou saber mais sobre mim, seguem alguns links:
 - React JS
 - PostgreSQL
 - Git & Github
-<br>
 
 ## :file_folder: Projetos
 
 - **Launchstore** <br>
   *Projeto feito com Nunjucks, Node JS e PostgreSQL* <br>
-	*- [Repositório no Github](https://github.com/hudvdias/launchstore)* <br>
+  *- [Repositório no Github](https://github.com/hudvdias/launchstore)* <br>
 
 - **Leste Contact** <br>
   *Projeto feito em React JS* <br>
   *- [Aplicação Online](https://leste-contact.herokuapp.com/)* <br>
-	*- [Repositório no Github](https://github.com/hudvdias/desafio)* <br>
-  
-<br>
+  *- [Repositório no Github](https://github.com/hudvdias/desafio)* <br>
 
 ## :books: Cursos
 
@@ -56,7 +49,6 @@ Caso queiram entrar em contato, ou saber mais sobre mim, seguem alguns links:
 
 - **Omnistack (Bootcamp)** <br>
 	*- Rocketseat*
-<br>
 
 ## :briefcase: Experiências Anteriores
 
