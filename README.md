@@ -7,7 +7,7 @@ Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Ri
 
 **Sou desenvolvedor Full Stack na linguagem Javascript.**
 
-Caso queiram entrar em contato, ou saber mais sobre mim, seguem alguns links:
+Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 
 **Email:** hudson.oliveira.dias@gmail.com <br>
 **LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/ <br>
