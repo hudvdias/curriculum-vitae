@@ -1,5 +1,5 @@
-<h1 align=center> Hudson Oliveira Dias</h1>
-<blockquote align=center> Programador Javascript </blockquote>
+# Hudson Oliveira Dias
+> Programador Javascript
 
 <br>
 
@@ -33,11 +33,11 @@ Caso queiram entrar em contato, ou saber mais sobre mim, seguem alguns links:
 ## :file_folder: Projetos
 
 - **Launchstore** <br>
-  Projeto feito com Nunjucks, Node JS, PostgreSQL <br>
+  *Projeto feito com Nunjucks, Node JS e PostgreSQL* <br>
 	*- [Repositório no Github](https://github.com/hudvdias/launchstore)* <br>
 
 - **Leste Contact** <br>
-  Projeto feito em React JS <br>
+  *Projeto feito em React JS* <br>
   *- [Aplicação Online](https://leste-contact.herokuapp.com/)* <br>
 	*- [Repositório no Github](https://github.com/hudvdias/desafio)* <br>
   
