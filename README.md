@@ -29,33 +29,35 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 
 ## 📁 Projetos
 
-### Launchstore
-	- Projeto em andamento, feito com Nunjucks, Node JS e PostgreSQL.
+- ### Launchstore
+	- Projeto em andamento.
+	- **Conhecimentos utilizados:** HTML, CSS, Javascript, Nunjucks, NodeJs, PostgreSQL.
 	- [Repositório no Github](https://github.com/hudvdias/launchstore)
 
-### **Leste Contact**
-	- Projeto finalizado, feito em React JS.
+- ### Leste Contact
+	- Projeto finalizado
+	- **Conhecimentos utilizados:** ReactJS, Javascript.
 	- [Aplicação Online](https://leste-contact.herokuapp.com/)
 	- [Repositório no Github](https://github.com/hudvdias/desafio)
 
 ## 📚 Cursos
 
-- **Bacharel em Comunicação Social - Publicidade em Propaganda**
-	*Anhanguera Educacional*
+### Bacharel em Comunicação Social - Publicidade em Propaganda
+*Anhanguera Educacional - Concluído em 2017*
 
-- **Lógica de Programação**
-	*Softblue*
+### Lógica de Programação
+*Softblue - Concluído em 2019*
 
-- **Launchbase (Bootcamp)**
-	*Rocketseat*
+### Launchbase (Bootcamp)
+*Rocketseat - Em andamento*
 
-- **Omnistack (Bootcamp)**
-	*Rocketseat*
+### Omnistack (Bootcamp)
+*Rocketseat - Em andamento*
 
 ## 💼 Experiências Anteriores
 
-- **Jornal O Fluminense**
-	- Editor de Vídeo
+### Editor de Vídeo
+*Jornal O Fluminense [2016 - 2019]*
 
-- **Anhanguera Educacional**
-	- Jovem Aprendiz - Administrativo
+### Jovem Aprendiz - Administrativo
+*Anhanguera Educacional [2014 - 2015]*
