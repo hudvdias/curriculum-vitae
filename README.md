@@ -35,7 +35,7 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 	- [Repositório no Github](https://github.com/hudvdias/launchstore)
 
 - ### Leste Contact
-	- Projeto finalizado
+	- Projeto finalizado.
 	- **Conhecimentos utilizados:** ReactJS, Javascript.
 	- [Aplicação Online](https://leste-contact.herokuapp.com/)
 	- [Repositório no Github](https://github.com/hudvdias/desafio)
