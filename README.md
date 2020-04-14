@@ -1,19 +1,21 @@
 # Hudson Oliveira Dias
 > Programador Javascript
 
-## :raising_hand_man: Sobre Mim
+## 🙋‍♂️ Sobre Mim
 
 Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Rio de Janeiro.
-
+\
 **Sou desenvolvedor Full Stack na linguagem Javascript.**
-
+\
 Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
+\
+**Email:** hudson.oliveira.dias@gmail.com
+\
+**LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/
+\
+**Github:** https://github.com/hudvdias
 
-**Email:** hudson.oliveira.dias@gmail.com <br>
-**LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/ <br>
-**Github:** https://github.com/hudvdias <br>
-
-## :desktop_computer: Conhecimentos
+## 🖥️ Conhecimentos
 
 - HTML
 - CSS
@@ -25,35 +27,46 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 - PostgreSQL
 - Git & Github
 
-## :file_folder: Projetos
+## 📁 Projetos
 
-- **Launchstore** <br>
-  *Projeto feito com Nunjucks, Node JS e PostgreSQL* <br>
-  *- [Repositório no Github](https://github.com/hudvdias/launchstore)* <br>
+- **Launchstore**
+\
+  *Projeto feito com Nunjucks, Node JS e PostgreSQL*
+	\
+  *- [Repositório no Github](https://github.com/hudvdias/launchstore)*
 
-- **Leste Contact** <br>
-  *Projeto feito em React JS* <br>
-  *- [Aplicação Online](https://leste-contact.herokuapp.com/)* <br>
-  *- [Repositório no Github](https://github.com/hudvdias/desafio)* <br>
+- **Leste Contact**
+\
+  *Projeto feito em React JS*
+	\
+  *- [Aplicação Online](https://leste-contact.herokuapp.com/)*
+	\
+  *- [Repositório no Github](https://github.com/hudvdias/desafio)*
 
-## :books: Cursos
+## 📚 Cursos
 
-- **Bacharel em Comunicação Social - Publicidade em Propaganda** <br>
+- **Bacharel em Comunicação Social - Publicidade em Propaganda**
+\
 	*- Anhanguera Educacional*
 
-- **Lógica de Programação** <br>
+- **Lógica de Programação**
+\
 	*- Softblue*
 
-- **Launchbase (Bootcamp)** <br>
+- **Launchbase (Bootcamp)**
+\
 	*- Rocketseat*
 
-- **Omnistack (Bootcamp)** <br>
+- **Omnistack (Bootcamp)**
+\
 	*- Rocketseat*
 
-## :briefcase: Experiências Anteriores
+## 💼 Experiências Anteriores
 
-- **Jornal O Fluminense** <br>
+- **Jornal O Fluminense**
+\
 	*- Editor de Vídeo*
 
-- **Anhanguera Educacional** <br>
+- **Anhanguera Educacional**
+\
 	*- Jovem Aprendiz - Administrativo*
