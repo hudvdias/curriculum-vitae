@@ -4,15 +4,15 @@
 ## 🙋‍♂️ Sobre Mim
 
 Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Rio de Janeiro.
-\
+
 **Sou desenvolvedor Full Stack na linguagem Javascript.**
-\
+
 Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
-\
+
 **Email:** hudson.oliveira.dias@gmail.com
-\
+
 **LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/
-\
+
 **Github:** https://github.com/hudvdias
 
 ## 🖥️ Conhecimentos
@@ -30,43 +30,32 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 ## 📁 Projetos
 
 - **Launchstore**
-\
-  *Projeto feito com Nunjucks, Node JS e PostgreSQL*
-	\
-  *- [Repositório no Github](https://github.com/hudvdias/launchstore)*
+	- Projeto em andamento, feito com Nunjucks, Node JS e PostgreSQL.
+  - [Repositório no Github](https://github.com/hudvdias/launchstore)
 
 - **Leste Contact**
-\
-  *Projeto feito em React JS*
-	\
-  *- [Aplicação Online](https://leste-contact.herokuapp.com/)*
-	\
-  *- [Repositório no Github](https://github.com/hudvdias/desafio)*
+  - Projeto finalizado, feito em React JS.
+  - [Aplicação Online](https://leste-contact.herokuapp.com/)
+  - [Repositório no Github](https://github.com/hudvdias/desafio)
 
 ## 📚 Cursos
 
 - **Bacharel em Comunicação Social - Publicidade em Propaganda**
-\
-	*- Anhanguera Educacional*
+	*Anhanguera Educacional*
 
 - **Lógica de Programação**
-\
-	*- Softblue*
+	*Softblue*
 
 - **Launchbase (Bootcamp)**
-\
-	*- Rocketseat*
+	*Rocketseat*
 
 - **Omnistack (Bootcamp)**
-\
-	*- Rocketseat*
+	*Rocketseat*
 
 ## 💼 Experiências Anteriores
 
 - **Jornal O Fluminense**
-\
-	*- Editor de Vídeo*
+	- Editor de Vídeo
 
 - **Anhanguera Educacional**
-\
-	*- Jovem Aprendiz - Administrativo*
+	- Jovem Aprendiz - Administrativo
