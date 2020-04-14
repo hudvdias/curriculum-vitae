@@ -43,21 +43,21 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 ## 📚 Cursos
 
 - ### Bacharel em Comunicação Social - Publicidade em Propaganda
-	- *Anhanguera Educacional - Concluído em 2017*
+	*Anhanguera Educacional - Concluído em 2017*
 
 - ### Lógica de Programação
-	- *Softblue - Concluído em 2019*
+	*Softblue - Concluído em 2019*
 
 - ### Launchbase (Bootcamp)
-	- *Rocketseat - Em andamento*
+	*Rocketseat - Em andamento*
 
 - ### Omnistack (Bootcamp)
-	- *Rocketseat - Em andamento*
+	*Rocketseat - Em andamento*
 
 ## 💼 Experiências Anteriores
 
 - ### Editor de Vídeo
-	- *Jornal O Fluminense [2016 - 2019]*
+	*Jornal O Fluminense [2016 - 2019]*
 
 - ### Jovem Aprendiz - Administrativo
-	- *Anhanguera Educacional [2014 - 2015]*
+	*Anhanguera Educacional [2014 - 2015]*
