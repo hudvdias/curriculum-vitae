@@ -30,13 +30,13 @@ Caso queiram entrar em contato ou saber mais sobre mim, seguem alguns links:
 ## 📁 Projetos
 
 ### Launchstore
-- Projeto em andamento, feito com Nunjucks, Node JS e PostgreSQL.
-- [Repositório no Github](https://github.com/hudvdias/launchstore)
+	- Projeto em andamento, feito com Nunjucks, Node JS e PostgreSQL.
+	- [Repositório no Github](https://github.com/hudvdias/launchstore)
 
-- **Leste Contact**
+### **Leste Contact**
 	- Projeto finalizado, feito em React JS.
 	- [Aplicação Online](https://leste-contact.herokuapp.com/)
-  - [Repositório no Github](https://github.com/hudvdias/desafio)
+	- [Repositório no Github](https://github.com/hudvdias/desafio)
 
 ## 📚 Cursos
 
