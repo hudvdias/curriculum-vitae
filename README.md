@@ -9,7 +9,7 @@ Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Ri
 
 **Email:** hudson.oliveira.dias@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/hudson-dias-a3395584/
+**LinkedIn:** https://www.linkedin.com/in/hudvdias/
 
 **Github:** https://github.com/hudvdias
 
