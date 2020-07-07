@@ -5,7 +5,7 @@
 
 Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Rio de Janeiro.
 
-**Desenvolvedor Full Stack na linguagem Javascript.**
+**Desenvolvedor Javascript Full-Stack**
 
 **Email:** hudson.oliveira.dias@gmail.com
 
@@ -45,7 +45,7 @@ Olá! Meu nome é Hudson Oliveira Dias, tenho 25 anos e moro em Itaboraí, no Ri
 	- [Repositório no Github](https://github.com/hudvdias/foodfy)
 
 - ### Ecoleta
-	- Projeto Finalizado. Upgrade em andamento.
+	- Projeto Finalizado.
 	- **Conhecimentos utilizados:** Typescript, NodeJs, SQLite, ReactJs, React Native.
 	- [Repositório no Github](https://github.com/hudvdias/ecoleta)
 
